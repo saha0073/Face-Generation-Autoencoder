@@ -44,4 +44,4 @@ Generated images are far from ideal, mainly because input data was quite dirty.
 	<img src='https://github.com/saha0073/Face-Generation-Autoencoder/blob/master/images/gen.png', width="60%">
 </div>
 
-Inspired by [milsun](https://github.com/milsun)
+Inspired from 'Bollywood-VAE' by milsun.
